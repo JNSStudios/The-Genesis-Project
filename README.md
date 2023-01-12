@@ -4,7 +4,7 @@ A relatively-simple Python program that simulates the Infinite Monkey Theorem by
 # Synopsis
 When the program is launched, it will start generating random characters (including letters, numbers, punctuation, and spaces). If it matches the current character in the string it is looking to match against, it will move onto the next character. If it doesn't match, it resets the string back to the beginning. The goal is for the program to generate the entire string using the randomly-generated characters in a single go, or to simulate how long such a thing would take. 
 The program is designed to ignore letter case, and the current goal string is the first chapter of the book of Genesis, pasted below.
-For every one million random character generations, the program will print out a report to the terminal. 
+For every one million random character generations, the program will print out a report to the terminal. (Note that the frequency of the reports can be altered by changing the "checksBetweenReports" variable on Line 16 of the .py file.
 
 An example report looks like this:
 ```
