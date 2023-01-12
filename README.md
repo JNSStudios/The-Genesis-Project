@@ -7,28 +7,28 @@ The program is designed to ignore letter case, and the current goal string is th
 For every one million random character generations, the program will print out a report to the terminal. 
 
 An example report looks like this:
-
-> PROGRESS REPORT (once every 1000000 checks)
-> Current High Score: "In t"
-> Latest incorrect guess: Character " 5 " with index of 0
-> Total number of letter checks: 1000000
-> Program has been running for a total of 1.41 seconds.
-
+```
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 5 " with index of 0
+Total number of letter checks: 1000000
+Program has been running for a total of 1.41 seconds.
+```
 To exit the program, simply terminate it with Ctrl+C in the terminal. The program will print out one last report, and save all the reports to a .txt file in the same directory as the .py file.
 
 
 An example exit report looks like this:
+```
+Program exiting.
+High Score: "In t"
+(Highest character of " t " at index 4/4087 (0.001% through))
+Latest incorrect guess: Character " 9 " with index of 0
+Total number of letter checks: 2943122
+Program ran for a total of 4.05 seconds.
+Average of 726696.79 letter checks per second (43601807.4 per minute, 2616108444.0 per hour)
 
-> Program exiting.
-> High Score: "In t"
-> (Highest character of " t " at index 4/4087 (0.001% through))
-> Latest incorrect guess: Character " 9 " with index of 0
-> Total number of letter checks: 2943122
-> Program ran for a total of 4.05 seconds.
-> Average of 726696.79 letter checks per second (43601807.4 per minute, 2616108444.0 per hour)
-> 
-> This output will be saved under the file name "Genesis Project Stats (01-12-2023 11.44.16).txt"
-
+This output will be saved under the file name "Genesis Project Stats (01-12-2023 11.44.16).txt"
+```
 # Acceptable Characters
 a b c d e f g h i j k l m n o p q r s t u v w x y z 1 2 3 4 5 6 7 8 9 0 . , ? ! ' " ( ) : ; (space)
 
