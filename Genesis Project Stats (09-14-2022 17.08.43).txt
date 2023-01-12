@@ -1,0 +1,260 @@
+
+- T H E  G E N E S I S   P R O J E C T -
+Program started on 09-14-2022 17.08.43
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " l " with index of 0
+Total number of letter checks: 1000000
+Program has been running for a total of 1.762 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " w " with index of 0
+Total number of letter checks: 2000000
+Program has been running for a total of 3.476 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " n " with index of 0
+Total number of letter checks: 3000000
+Program has been running for a total of 5.108 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " q " with index of 0
+Total number of letter checks: 4000000
+Program has been running for a total of 6.258 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " a " with index of 0
+Total number of letter checks: 5000000
+Program has been running for a total of 8.014 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " . " with index of 0
+Total number of letter checks: 6000000
+Program has been running for a total of 9.716 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " f " with index of 0
+Total number of letter checks: 7000000
+Program has been running for a total of 11.425 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " n " with index of 0
+Total number of letter checks: 8000000
+Program has been running for a total of 13.153 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " f " with index of 0
+Total number of letter checks: 9000000
+Program has been running for a total of 14.84 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " b " with index of 0
+Total number of letter checks: 10000000
+Program has been running for a total of 16.562 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " w " with index of 0
+Total number of letter checks: 11000000
+Program has been running for a total of 18.286 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " b " with index of 0
+Total number of letter checks: 12000000
+Program has been running for a total of 19.366 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " j " with index of 0
+Total number of letter checks: 13000000
+Program has been running for a total of 20.462 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " a " with index of 0
+Total number of letter checks: 14000000
+Program has been running for a total of 22.226 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 0 " with index of 0
+Total number of letter checks: 15000000
+Program has been running for a total of 23.311 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " c " with index of 0
+Total number of letter checks: 16000000
+Program has been running for a total of 24.396 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " l " with index of 0
+Total number of letter checks: 17000000
+Program has been running for a total of 26.093 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " m " with index of 0
+Total number of letter checks: 18000000
+Program has been running for a total of 27.608 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " g " with index of 0
+Total number of letter checks: 19000000
+Program has been running for a total of 29.337 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " z " with index of 0
+Total number of letter checks: 20000000
+Program has been running for a total of 30.445 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " r " with index of 0
+Total number of letter checks: 21000000
+Program has been running for a total of 31.555 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 5 " with index of 0
+Total number of letter checks: 22000000
+Program has been running for a total of 33.176 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 2 " with index of 1
+Total number of letter checks: 23000000
+Program has been running for a total of 34.252 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " l " with index of 0
+Total number of letter checks: 24000000
+Program has been running for a total of 35.934 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " q " with index of 0
+Total number of letter checks: 25000000
+Program has been running for a total of 37.631 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " f " with index of 0
+Total number of letter checks: 26000000
+Program has been running for a total of 39.317 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " g " with index of 0
+Total number of letter checks: 27000000
+Program has been running for a total of 40.401 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " v " with index of 0
+Total number of letter checks: 28000000
+Program has been running for a total of 41.5 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 5 " with index of 0
+Total number of letter checks: 29000000
+Program has been running for a total of 43.204 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " p " with index of 0
+Total number of letter checks: 30000000
+Program has been running for a total of 44.286 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 8 " with index of 0
+Total number of letter checks: 31000000
+Program has been running for a total of 45.947 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " w " with index of 0
+Total number of letter checks: 32000000
+Program has been running for a total of 47.385 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 2 " with index of 0
+Total number of letter checks: 33000000
+Program has been running for a total of 49.11 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 7 " with index of 0
+Total number of letter checks: 34000000
+Program has been running for a total of 50.553 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " a " with index of 0
+Total number of letter checks: 35000000
+Program has been running for a total of 51.883 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " b " with index of 0
+Total number of letter checks: 36000000
+Program has been running for a total of 53.769 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 2 " with index of 0
+Total number of letter checks: 37000000
+Program has been running for a total of 55.606 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 2 " with index of 0
+Total number of letter checks: 38000000
+Program has been running for a total of 56.991 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " 7 " with index of 0
+Total number of letter checks: 39000000
+Program has been running for a total of 58.247 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " j " with index of 0
+Total number of letter checks: 40000000
+Program has been running for a total of 60.161 seconds.
+
+PROGRESS REPORT (once every 1000000 checks)
+Current High Score: "In t"
+Latest incorrect guess: Character " e " with index of 0
+Total number of letter checks: 41000000
+Program has been running for a total of 61.951 seconds.
+
+
+
+Program exiting.
+High Score: "In t"
+(Highest character of " t " at index 4/4087 (0.001% through))
+Latest incorrect guess: Character " f " with index of 0
+Total number of letter checks: 41346124
+Program ran for a total of 62.61 seconds.
+Average of 660375.723 letter checks per second (39622543.38 per minute, 2377352602.8 per hour)
+
